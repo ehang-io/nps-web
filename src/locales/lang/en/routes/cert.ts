@@ -1,0 +1,15 @@
+export default {
+  cert: 'Cert',
+  cert_list: 'cert list',
+  add_cert: 'add cert',
+  edit_cert: 'edit cert',
+  status: 'status',
+  open: 'open',
+  stop: 'stop',
+  remark: 'remark',
+  name: 'name',
+  option: 'option',
+  cert_type: 'cert type',
+  key_search: 'key search',
+  delete_confirm: 'Are you sure you want to delete this piece of data?',
+};
